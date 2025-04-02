@@ -1,0 +1,14 @@
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/bin/Debug/net8.0/Project
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/bin/Debug/net8.0/Project.deps.json
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/bin/Debug/net8.0/Project.runtimeconfig.json
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/bin/Debug/net8.0/Project.dll
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/bin/Debug/net8.0/Project.pdb
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/Project.AssemblyInfoInputs.cache
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/Project.AssemblyInfo.cs
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/Project.csproj.CoreCompileInputs.cache
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/Project.dll
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/refint/Project.dll
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/Project.pdb
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
+/Users/arina_hasanova/ВАЖНОЕ/Projects VS code/XYZ_project/Project/obj/Debug/net8.0/ref/Project.dll
