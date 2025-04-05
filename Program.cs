@@ -50,7 +50,7 @@
             Console.Clear();
             Console.WriteLine($"Добро пожаловать в игру , {Name}\n");
 
-            while(CurrentPLAYERHealth > 0 || CurrentENEMYHealth > 0)
+            while(CurrentPLAYERHealth > 0 && CurrentENEMYHealth > 0) //цикл игры продолжается пока оба игрока живы 
             {   
                 if(CurrentPLAYERHealth > MaxPlayerHealth * 0.1 && CurrentENEMYHealth >  MaxEnemyHealth * 0.1) // если текущее значение здоровья больше 10% , значит окрашиваем в зеленный  
                 {
